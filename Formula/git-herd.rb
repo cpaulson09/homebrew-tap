@@ -1,8 +1,8 @@
 class GitHerd < Formula
   desc "Live terminal dashboard of local git branches and worktrees, with safe cleanup"
   homepage "https://github.com/cpaulson09/git-herd"
-  url "https://github.com/cpaulson09/git-herd/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "b6ce773f524ea1f54a5dfa5deb14af6ee9c2bc4dec8679183e3a1dcd94d8eecc"
+  url "https://github.com/cpaulson09/git-herd/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "bf91743de9a5b660e42ea773e891c355180b863bf6cdd14b3ef942a5e6eed9ee"
   license "MIT"
 
   depends_on "fzf"
